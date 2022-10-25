@@ -40,5 +40,11 @@ de Javascript como :
   console.log (hero ["weapon"])
   console.log (hero ["hair"])
   ```
+
+  ```Javascript
+  console.log (hero.name)
+  console.log (hero.weapon)
+  console.log (hero.hair)
+  ```
   
   
